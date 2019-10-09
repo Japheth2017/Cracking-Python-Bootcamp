@@ -65,7 +65,7 @@ print()
 ########################################
 
 a1 = 5
-print(type(a))
+print(type(a1))
 # euler's number
 b1 = 2.7182818284590452353602874713527
 print(type(b1))
